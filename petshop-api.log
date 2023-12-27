@@ -1,2 +1,35 @@
 2023-12-27T12:28:19.071Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-27T12:28:46.306Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:31:00.687Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:31:17.152Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:31:49.818Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:32:03.854Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:32:19.838Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:34:36.521Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:34:42.460Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:35:44.804Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:36:19.447Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:36:47.403Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:37:18.847Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:41:25.121Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:41:54.778Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:42:02.881Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:43:08.949Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-27T12:47:45.805Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:49:09.128Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:51:00.085Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:51:04.495Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:52:11.636Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:53:56.503Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:54:24.437Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:57:40.698Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T12:59:10.672Z [petshop-api] info : POST /proprietario - {"proprietario_id":1,"nome":"Alda Valentim","telefone":"(39) 98566-1222"}
+2023-12-27T13:00:18.314Z [petshop-api] info : GET /proprietario
+2023-12-27T13:00:42.525Z [petshop-api] info : GET /proprietario/:id
+2023-12-27T13:01:16.701Z [petshop-api] info : POST /proprietario - {"proprietario_id":2,"nome":"Nicolas Avelar","telefone":"(28) 97432-0379"}
+2023-12-27T13:02:02.230Z [petshop-api] info : POST /proprietario - {"proprietario_id":3,"nome":"Emilly Baptista","telefone":"(31) 99545-2457"}
+2023-12-27T13:02:30.897Z [petshop-api] info : POST /proprietario - {"proprietario_id":4,"nome":"Beatriz Bonilha","telefone":"(35) 98054-4724"}
+2023-12-27T13:03:15.224Z [petshop-api] info : POST /proprietario - {"proprietario_id":5,"nome":"Nataniel Faleiro","telefone":"(33) 99594-3315"}
+2023-12-27T13:03:46.924Z [petshop-api] info : POST /proprietario - {"proprietario_id":6,"nome":"Richard Santos","telefone":"(27) 99597-9170"}
+2023-12-27T13:04:08.488Z [petshop-api] info : GET /proprietario
+2023-12-27T13:04:56.765Z [petshop-api] info : GET /proprietario

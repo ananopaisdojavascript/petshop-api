@@ -1,0 +1,15 @@
+POST http://localhost:3000/proprietario
+Content-Type: application/json
+
+{
+  "nome": "Richard Santos",
+  "telefone": "(27) 99597-9170"
+}
+
+####
+
+GET http://localhost:3000/proprietario
+
+####
+
+GET http://localhost:3000/proprietario/1
