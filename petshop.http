@@ -12,4 +12,23 @@ GET http://localhost:3000/proprietario
 
 ####
 
-GET http://localhost:3000/proprietario/1
+GET http://localhost:3000/proprietario/5
+
+####
+
+POST http://localhost:3000/animal
+Content-Type: application/json
+
+{
+  "nome": "Totó",
+  "tipo": "Cachorro",
+  "proprietario_id": 6
+}
+
+####
+
+GET http://localhost:3000/animal?proprietario_id=1
+
+####
+
+DELETE http://localhost:3000/animal/1
