@@ -1,4 +1,5 @@
 import ProprietarioRepository from "../repositories/proprietario.repository.js"
+import AnimalRepository from "../repositories/animal.repository.js"
 
 const createProprietario = async (proprietario) => {
   return await ProprietarioRepository.insertProprietario(proprietario)
@@ -17,6 +18,10 @@ const updateProprietario = async (proprietario) => {
 };
 
 const deleteProprietario = async (id) => {
+  const animais = await AnimalRepository.getAnimaisByProprietarioId(id)
+  if(animais) {
+    throw new Error("Não é possível excluir o proprietário.")
+  }
   await ProprietarioRepository.deleteProprietario(id)
 };
 

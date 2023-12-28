@@ -1,86 +1,88 @@
-import connect from "./db.js"
+import Animal from "../models/animal.model.js"
+import Proprietario from "../models/proprietario.model.js"
 
 const insertAnimal = async (animal) => {
-  const conn = await connect()
-
   try {
-    const sql = "INSERT INTO animais (nome, tipo, proprietario_id) VALUES ($1, $2, $3) RETURNING *"
-    const values = [animal.nome, animal.tipo, animal.proprietario_id]
-    const res = await conn.query(sql, values)
-    return res.rows[0]
+    return await Animal.create(animal)
   } catch (error) {
-    throw error
-  } finally {
-    conn.release()
+    throw Error
   }
 }
 
 const getAnimais = async () => {
-  const conn = await connect()
-
   try {
-    const res = await conn.query("SELECT * FROM animais")
-    return res.rows
+    return await Animal.findAll({
+      include: [
+        {
+          model: Proprietario
+        }
+      ]
+    })
   } catch (error) {
     throw error
-  } finally {
-    conn.release()
   }
 }
 
-const getAnimalsByOwnerId = async (ownerId) => {
-  const conn = await connect()
-
+const getAnimal = async (id) => {
   try {
-    const res = await conn.query("SELECT * FROM animais WHERE proprietario_id = $1", [ownerId])
-    return res.rows
+    return await Animal.findByPk(id, {
+      include: {
+        model: Proprietario
+      }
+    })
   } catch (error) {
     throw error
-  } finally {
-    conn.release()
   }
 }
 
-const getAnimal = async(id) => {
-  const conn = await connect()
-
+const getAnimaisByProprietarioId = async (proprietarioId) => {
   try {
-    const res = await conn.query("SELECT * FROM animais WHERE animal_id = $1", [id])
-    return res.rows[0]
+    return await Animal.findAll(
+      {
+        where: {
+          proprietarioId: proprietarioId
+        },
+        include: {
+          model: Proprietario
+        }
+      }
+    )
   } catch (error) {
     throw error
-  } finally {
-    conn.release()
   }
 }
 
 const updateAnimal = async (animal) => {
-  const conn = await connect()
-
   try {
-    const sql = "UPDATE animais SET nome = $1, tipo = $2, proprietario_id = $3 WHERE animal_id = $4 RETURNING *"
-    const values = [animal.nome, animal.tipo, animal.proprietario_id, animal.animal_id]
-    const res = await conn.query(sql, values)
-    return res.rows[0]
+    await Animal.update(animal,
+      {
+        nome: animal.nome,
+        tipo: animal.tipo,
+        proprietarioId: animal.proprietarioId
+      },
+      {
+        where: {
+          animalId: animal.animalId
+        }
+      })
+    return await getAnimal(animal.animalId)
   } catch (error) {
     throw error
-  } finally {
-    conn.release()
   }
 }
 
 const deleteAnimal = async (id) => {
-  const conn = await connect()
-
   try {
-    await conn.query("DELETE FROM animais WHERE animal_id = $1", [id])
+    await Animal.destroy({
+      where: {
+        animalId: id
+      }
+    })
   } catch (error) {
     throw error
-  } finally {
-    conn.release()
   }
 }
 
 export default {
-  insertAnimal, getAnimais, getAnimalsByOwnerId, getAnimal, updateAnimal, deleteAnimal
+  insertAnimal, getAnimais, getAnimal, getAnimaisByProprietarioId, updateAnimal, deleteAnimal
 }

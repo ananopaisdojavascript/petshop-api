@@ -3,7 +3,7 @@ import AnimalService from "../services/animal.service.js";
 const createAnimal = async (request, response, next) => {
   try {
     let animal = request.body
-    const areTheFieldsValid = !animal.nome || !animal.tipo || !animal.proprietario_id
+    const areTheFieldsValid = !animal.nome || !animal.tipo || !animal.proprietarioId
 
     if (areTheFieldsValid) {
       throw new Error("O preenchimento dos campos de nome, tipo e id do proprietário é obrigatório.")
@@ -18,7 +18,7 @@ const createAnimal = async (request, response, next) => {
 
 const getAnimais = async (request, response, next) => {
   try {
-    response.send(await AnimalService.getAnimais(request.query.proprietario_id))
+    response.send(await AnimalService.getAnimais(request.query.proprietarioId))
     logger.info("GET /animal")
   } catch (error) {
     next(error)
@@ -37,7 +37,7 @@ const getAnimal = async (request, response, next) => {
 const updateAnimal = async (request, response, next) => {
   try {
     let animal = request.body;
-    const areTheFieldsValid = !animal.nome || !animal.tipo || !animal.proprietario_id
+    const areTheFieldsValid = !animal.animalId || !animal.nome || !animal.tipo || !animal.proprietarioId
 
     if (areTheFieldsValid) {
       throw new Error("O preenchimento dos campos de nome, tipo e id do proprietário é obrigatório.")

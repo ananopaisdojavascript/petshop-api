@@ -1,9 +1,10 @@
-POST http://localhost:3000/proprietario
+PUT http://localhost:3000/proprietario
 Content-Type: application/json
 
 {
-  "nome": "Richard Santos",
-  "telefone": "(27) 99597-9170"
+  "proprietarioId": 1,
+  "nome": "Alda Valentim",
+  "telefone": "(39) 98566-1222"
 }
 
 ####
@@ -27,8 +28,8 @@ Content-Type: application/json
 
 ####
 
-GET http://localhost:3000/animal?proprietario_id=1
+GET http://localhost:3000/animal?proprietarioId=2
 
 ####
 
-DELETE http://localhost:3000/animal/1
+GET http://localhost:3000/animal/3

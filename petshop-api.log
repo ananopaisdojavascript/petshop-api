@@ -90,3 +90,61 @@
 2023-12-27T14:42:47.062Z [petshop-api] info : GET /animal
 2023-12-27T14:43:35.473Z [petshop-api] info : DELETE /animal/:id - 1
 2023-12-27T14:43:40.698Z [petshop-api] info : GET /animal
+2023-12-27T18:48:06.708Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T18:48:22.114Z [petshop-api] info : GET /proprietario
+2023-12-27T18:49:31.088Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T18:52:05.317Z [petshop-api] info : GET /proprietario/:id
+2023-12-27T18:52:52.338Z [petshop-api] info : PUT /proprietario - {"proprietarioId":1,"nome":"Alda Valentim","telefone":"(39) 98566-1222"}
+2023-12-27T18:53:04.215Z [petshop-api] info : GET /proprietario
+2023-12-27T18:55:39.878Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-27T18:57:49.444Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T11:56:54.912Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T11:57:04.324Z [petshop-api] info : GET /proprietario
+2023-12-28T11:57:15.711Z [petshop-api] info : GET /proprietario/:id
+2023-12-28T11:57:37.520Z [petshop-api] error : GET  - connect is not a function
+2023-12-28T12:00:54.257Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:01:42.216Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:09:02.496Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:09:08.526Z [petshop-api] info : GET /animal
+2023-12-28T12:19:37.073Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:19:56.512Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:23:12.072Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:36:03.357Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:37:01.579Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:38:49.557Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:38:57.588Z [petshop-api] info : GET /animal
+2023-12-28T12:39:14.887Z [petshop-api] info : GET /animal
+2023-12-28T12:43:28.847Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:44:15.955Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:44:29.291Z [petshop-api] info : GET /animal
+2023-12-28T12:51:25.659Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:51:35.227Z [petshop-api] info : GET /animal
+2023-12-28T12:52:57.147Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:53:05.542Z [petshop-api] info : GET /animal
+2023-12-28T12:54:59.375Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:56:33.964Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T12:56:43.577Z [petshop-api] info : GET /animal
+2023-12-28T12:59:58.169Z [petshop-api] info : GET /animal/:id
+2023-12-28T13:00:23.561Z [petshop-api] info : GET /animal/:id
+2023-12-28T13:00:40.738Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:01:00.966Z [petshop-api] info : GET /animal
+2023-12-28T13:01:18.645Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:01:26.470Z [petshop-api] info : GET /animal
+2023-12-28T13:01:52.150Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:02:33.714Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:02:48.640Z [petshop-api] info : GET /animal
+2023-12-28T13:05:04.587Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:06:28.009Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:06:33.980Z [petshop-api] info : GET /animal/:id
+2023-12-28T13:07:25.071Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:07:38.126Z [petshop-api] info : GET /animal
+2023-12-28T13:08:02.100Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:10:45.886Z [petshop-api] info : GET /animal
+2023-12-28T13:11:38.278Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:11:56.319Z [petshop-api] info : GET /animal
+2023-12-28T13:12:54.907Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:12:59.993Z [petshop-api] info : GET /animal
+2023-12-28T13:14:36.090Z [petshop-api] info : GET /animal
+2023-12-28T13:33:05.133Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:33:10.840Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T13:34:00.645Z [petshop-api] info : Servidor rodando na porta 3000

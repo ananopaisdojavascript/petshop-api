@@ -37,7 +37,7 @@ const getProprietario = async (request, response, next) => {
 const updateProprietario = async (request, response, next) => {
   try {
     let proprietario = request.body;
-    const areTheFieldsValid = !proprietario.nome || !proprietario.telefone 
+    const areTheFieldsValid = !proprietario.proprietarioId || !proprietario.nome || !proprietario.telefone 
 
     if (areTheFieldsValid) {
       throw new Error("O preenchimento dos campos de nome e telefone é obrigatório.")
