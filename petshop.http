@@ -1,46 +1,4 @@
 PUT http://localhost:3000/proprietario
 Content-Type: application/json
 
-{
-  "proprietarioId": 1,
-  "nome": "Alda Valentim",
-  "telefone": "(39) 98566-1222"
-}
-
-####
-
-GET http://localhost:3000/proprietario
-
-####
-
-GET http://localhost:3000/proprietario/5
-
-####
-
-POST http://localhost:3000/animal
-Content-Type: application/json
-
-{
-  "nome": "Billy",
-  "tipo": "Cachorro",
-  "proprietarioId": 1
-}
-
-####
-
-GET http://localhost:3000/animal?proprietarioId=2
-
-####
-
-GET http://localhost:3000/animal
-
-####
-
-POST http://localhost:3000/servico
-Content-Type: application/json
-
-{
-  "descricao": "Banho",
-  "valor": 30,
-  "animalId": 1
-}
+{}

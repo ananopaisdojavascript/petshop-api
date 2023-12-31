@@ -228,3 +228,55 @@
 2023-12-28T17:25:15.876Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-28T17:25:26.260Z [petshop-api] error : POST  - nome is not defined
 2023-12-31T13:09:29.904Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:12:17.266Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:13:04.244Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:13:34.104Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:14:12.484Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:15:16.395Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:16:18.624Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:18:50.754Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:21:00.544Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:21:54.785Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:22:04.086Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:22:09.997Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:24:23.656Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:25:17.390Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:27:02.007Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:29:16.734Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:32:48.138Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:33:35.392Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:33:50.599Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-31T13:34:21.684Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:34:26.724Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-31T13:35:12.041Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-31T13:36:10.544Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:37:07.265Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:40:51.666Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:41:44.698Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:43:57.155Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:45:21.555Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:51:45.325Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:52:06.685Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:52:50.510Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:53:01.372Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:53:48.425Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:53:58.049Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-31T13:55:16.335Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:56:54.208Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T13:58:50.385Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:50:18.678Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:50:45.506Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:51:44.312Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:51:49.162Z [petshop-api] error : POST  - O preenchimento dos campos de nome e telefone é obrigatório.
+2023-12-31T14:52:00.718Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:52:08.174Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T14:53:21.598Z [petshop-api] info : POST /proprietario - {"proprietarioId":1,"nome":"Alda Valentim","telefone":"(39) 98566-1222"}
+2023-12-31T14:54:20.978Z [petshop-api] info : POST /proprietario - {"proprietarioId":2,"nome":"Nicolas Avelar","telefone":"(28) 97432-0379"}
+2023-12-31T14:55:03.296Z [petshop-api] info : POST /proprietario - {"proprietarioId":3,"nome":"Emilly Baptista","telefone":"(31) 99545-2457"}
+2023-12-31T14:55:44.422Z [petshop-api] info : POST /proprietario - {"proprietarioId":4,"nome":"Beatriz Bonilha","telefone":"(35) 98054-4724"}
+2023-12-31T14:56:32.166Z [petshop-api] info : POST /proprietario - {"proprietarioId":5,"nome":"Nataniel Faleiro","telefone":"(33) 99594-3315"}
+2023-12-31T14:57:08.023Z [petshop-api] info : POST /proprietario - {"proprietarioId":6,"nome":"Richard Santos","telefone":"(27) 99597-9170"}
+2023-12-31T14:59:20.439Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T15:00:56.975Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T15:01:15.642Z [petshop-api] info : GET /proprietario
+2023-12-31T15:01:23.528Z [petshop-api] info : GET /proprietario/:id
