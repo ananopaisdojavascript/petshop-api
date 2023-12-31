@@ -2,6 +2,7 @@ import express from "express"
 import cors from "cors"
 import winston from "winston"
 import ProprietarioRouter from "./routes/proprietario.router.js"
+import AnimalRouter from "./routes/animal.router.js"
 
 const app = express()
 
@@ -27,6 +28,7 @@ global.logger = winston.createLogger({
 app.use(express.json())
 app.use(cors())
 app.use("/proprietario", ProprietarioRouter)
+app.use("/animal", AnimalRouter)
 
 
 app.use((error, request, response, _next) => {

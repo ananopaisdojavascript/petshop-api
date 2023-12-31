@@ -280,3 +280,51 @@
 2023-12-31T15:00:56.975Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-31T15:01:15.642Z [petshop-api] info : GET /proprietario
 2023-12-31T15:01:23.528Z [petshop-api] info : GET /proprietario/:id
+2023-12-31T16:35:19.900Z [petshop-api] info : GET /proprietario
+2023-12-31T16:38:38.833Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:38:52.963Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:40:47.554Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:41:39.566Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:41:49.884Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:44:39.392Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:44:48.545Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:47:54.605Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:49:11.170Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:49:49.005Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:51:26.021Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:52:08.781Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:52:26.995Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:52:58.728Z [petshop-api] error : POST  - O preenchimento dos campos de nome, tipo e proprietário é obrigatório.
+2023-12-31T16:53:17.669Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T16:54:34.555Z [petshop-api] info : POST /animal - {"animalId":1,"nome":"Billy","tipo":"Cachorro","proprietarioId":1}
+2023-12-31T16:55:27.371Z [petshop-api] info : POST /animal - {"animalId":2,"nome":"Nala","tipo":"Cachorro","proprietarioId":2}
+2023-12-31T16:56:01.671Z [petshop-api] info : POST /animal - {"animalId":3,"nome":"Mimi","tipo":"Gato","proprietarioId":2}
+2023-12-31T16:57:08.543Z [petshop-api] info : POST /animal - {"animalId":4,"nome":"Dory","tipo":"Cachorro","proprietarioId":3}
+2023-12-31T16:57:55.441Z [petshop-api] info : POST /animal - {"animalId":5,"nome":"Lulu","tipo":"Cachorro","proprietarioId":4}
+2023-12-31T16:58:37.682Z [petshop-api] info : POST /animal - {"animalId":6,"nome":"Bob","tipo":"Cachorro","proprietarioId":5}
+2023-12-31T16:58:53.878Z [petshop-api] info : POST /animal - {"animalId":7,"nome":"Milu","tipo":"Cachorro","proprietarioId":5}
+2023-12-31T16:59:17.740Z [petshop-api] info : POST /animal - {"animalId":8,"nome":"Emmy","tipo":"Gato","proprietarioId":5}
+2023-12-31T16:59:37.509Z [petshop-api] info : POST /animal - {"animalId":9,"nome":"Amora","tipo":"Cachorro","proprietarioId":6}
+2023-12-31T17:00:19.116Z [petshop-api] info : GET /animal
+2023-12-31T17:00:34.055Z [petshop-api] info : GET /animal
+2023-12-31T17:00:48.941Z [petshop-api] info : GET /animal
+2023-12-31T17:00:55.180Z [petshop-api] info : GET /animal/:id
+2023-12-31T17:01:01.411Z [petshop-api] info : GET /animal
+2023-12-31T17:02:21.270Z [petshop-api] info : GET /animal
+2023-12-31T17:06:02.129Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:12:28.857Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:12:50.309Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:13:03.193Z [petshop-api] info : GET /animal
+2023-12-31T17:17:13.373Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:17:31.882Z [petshop-api] info : GET /animal
+2023-12-31T17:20:10.832Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:20:36.448Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:20:46.298Z [petshop-api] info : GET /animal
+2023-12-31T17:21:57.795Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:22:10.335Z [petshop-api] info : GET /animal
+2023-12-31T17:22:58.752Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:23:07.059Z [petshop-api] info : GET /animal
+2023-12-31T17:23:28.921Z [petshop-api] info : GET /animal/:id
+2023-12-31T17:25:05.684Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-31T17:25:16.603Z [petshop-api] info : GET /animal/:id
+2023-12-31T17:25:28.658Z [petshop-api] info : GET /animal
