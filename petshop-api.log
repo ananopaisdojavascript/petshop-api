@@ -148,3 +148,83 @@
 2023-12-28T13:33:05.133Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-28T13:33:10.840Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-28T13:34:00.645Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:01:04.082Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:01:39.844Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:02:40.103Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:03:42.318Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:03:55.343Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:06:29.120Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:07:42.198Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:14:40.965Z [petshop-api] info : GET /animal
+2023-12-28T14:15:35.244Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:23:16.825Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:24:15.469Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:25:05.857Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:28:19.157Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:28:29.574Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:29:32.784Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:39:35.259Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:42:27.799Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:43:14.878Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:44:02.027Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:46:27.383Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:47:23.860Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:49:10.152Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:49:27.563Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:50:54.982Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:51:46.414Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:52:31.792Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:53:33.362Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:54:02.752Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:55:07.408Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:56:00.998Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:56:38.835Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:56:52.955Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:58:09.107Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:58:26.270Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:59:12.758Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T14:59:41.853Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T15:00:46.951Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T15:02:07.675Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T15:02:12.653Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T15:05:57.867Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:40:39.696Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:42:16.013Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:42:44.610Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:43:49.811Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:43:56.279Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:45:35.948Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:46:53.222Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:49:31.492Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:52:10.372Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:52:32.148Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:55:01.359Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:55:09.928Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:55:17.973Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:56:01.315Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:56:19.413Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:57:05.019Z [petshop-api] error : POST  - next is not defined
+2023-12-28T16:57:38.183Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T16:58:02.950Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T16:58:25.009Z [petshop-api] error : POST  - next is not defined
+2023-12-28T16:58:42.877Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:00:14.610Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:00:18.215Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:01:26.997Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:01:31.500Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:01:44.476Z [petshop-api] error : POST  - insert or update on table "servicos" violates foreign key constraint "fk_animais"
+2023-12-28T17:05:34.983Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:05:43.193Z [petshop-api] error : POST  - O id do animal informado não existe
+2023-12-28T17:05:56.449Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:11:11.875Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:11:18.322Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:14:59.491Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:21:10.564Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:21:13.544Z [petshop-api] error : POST  - O preenchimento dos campos de descrição, valor e id do animal é obrigatório.
+2023-12-28T17:21:53.498Z [petshop-api] error : POST  - O id do animal informado não existe
+2023-12-28T17:23:02.240Z [petshop-api] info : GET /animal
+2023-12-28T17:23:46.268Z [petshop-api] error : POST  - O preenchimento dos campos de nome, tipo e id do proprietário é obrigatório.
+2023-12-28T17:24:10.560Z [petshop-api] error : POST  - nome is not defined
+2023-12-28T17:25:15.876Z [petshop-api] info : Servidor rodando na porta 3000
+2023-12-28T17:25:26.260Z [petshop-api] error : POST  - nome is not defined
+2023-12-31T13:09:29.904Z [petshop-api] info : Servidor rodando na porta 3000

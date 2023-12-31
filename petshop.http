@@ -21,9 +21,9 @@ POST http://localhost:3000/animal
 Content-Type: application/json
 
 {
-  "nome": "Totó",
+  "nome": "Billy",
   "tipo": "Cachorro",
-  "proprietario_id": 6
+  "proprietarioId": 1
 }
 
 ####
@@ -32,4 +32,15 @@ GET http://localhost:3000/animal?proprietarioId=2
 
 ####
 
-GET http://localhost:3000/animal/3
+GET http://localhost:3000/animal
+
+####
+
+POST http://localhost:3000/servico
+Content-Type: application/json
+
+{
+  "descricao": "Banho",
+  "valor": 30,
+  "animalId": 1
+}
