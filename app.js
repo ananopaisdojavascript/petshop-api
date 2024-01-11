@@ -3,6 +3,7 @@ import cors from "cors"
 import winston from "winston"
 import ProprietarioRouter from "./routes/proprietario.router.js"
 import AnimalRouter from "./routes/animal.router.js"
+import ServicoRouter from "./routes/servico.router.js"
 
 const app = express()
 
@@ -29,6 +30,7 @@ app.use(express.json())
 app.use(cors())
 app.use("/proprietario", ProprietarioRouter)
 app.use("/animal", AnimalRouter)
+app.use("/servico", ServicoRouter)
 
 
 app.use((error, request, response, _next) => {

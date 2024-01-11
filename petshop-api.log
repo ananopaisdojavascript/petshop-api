@@ -328,3 +328,47 @@
 2023-12-31T17:25:05.684Z [petshop-api] info : Servidor rodando na porta 3000
 2023-12-31T17:25:16.603Z [petshop-api] info : GET /animal/:id
 2023-12-31T17:25:28.658Z [petshop-api] info : GET /animal
+2024-01-10T23:57:21.377Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:02:09.274Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:04:26.155Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:05:33.859Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:09:14.877Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:11:29.266Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:14:30.014Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:17:00.917Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:17:16.276Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:18:33.908Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:21:36.542Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:21:44.806Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:28:09.457Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:28:24.017Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:30:53.997Z [petshop-api] info : GET /proprietario
+2024-01-11T00:31:05.835Z [petshop-api] info : GET /animal
+2024-01-11T00:32:49.913Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:33:03.472Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:34:14.753Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:35:31.395Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:35:40.804Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:41:20.539Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:43:01.447Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:43:10.204Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:45:46.936Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:45:53.033Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:51:09.180Z [petshop-api] info : GET /animal
+2024-01-11T00:55:05.656Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T00:55:16.002Z [petshop-api] info : GET /animal
+2024-01-11T00:55:24.943Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T00:59:16.133Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T01:20:20.460Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T01:28:47.507Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T01:28:52.812Z [petshop-api] error : GET  - column servicos.proprietario_id does not exist
+2024-01-11T01:29:35.713Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T01:31:16.655Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T01:35:10.249Z [petshop-api] info : Servidor rodando na porta 3000
+2024-01-11T01:35:24.428Z [petshop-api] info : GET /servico
+2024-01-11T01:36:05.311Z [petshop-api] info : GET /servico
+2024-01-11T01:37:17.794Z [petshop-api] info : GET /servico
+2024-01-11T01:38:51.615Z [petshop-api] info : GET /servico
+2024-01-11T01:40:47.192Z [petshop-api] info : GET /servico/:id
+2024-01-11T01:41:56.687Z [petshop-api] info : GET /servico/:id
+2024-01-11T01:42:22.225Z [petshop-api] info : GET /servico
