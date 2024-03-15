@@ -40,12 +40,4 @@ app.use((error, request, response, _next) => {
   });
 });
 
-const port = 3000
-
-app.listen(port, () => {
-  try {
-    logger.info(`Servidor rodando na porta ${port}`)
-  } catch (error) {
-    logger.error(error)
-  }
-})
+export default app;

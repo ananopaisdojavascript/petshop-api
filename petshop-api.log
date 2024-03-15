@@ -372,3 +372,8 @@
 2024-01-11T01:40:47.192Z [petshop-api] info : GET /servico/:id
 2024-01-11T01:41:56.687Z [petshop-api] info : GET /servico/:id
 2024-01-11T01:42:22.225Z [petshop-api] info : GET /servico
+2024-03-15T01:07:54.849Z [petshop-api] info : Servidor rodando na porta 3000
+2024-03-15T01:08:54.157Z [petshop-api] info : GET /proprietario
+2024-03-15T01:09:12.448Z [petshop-api] info : GET /proprietario
+2024-03-15T01:24:19.151Z [petshop-api] info : Servidor rodando na porta 5678
+2024-03-15T21:33:34.154Z [petshop-api] info : Servidor rodando na porta 5678

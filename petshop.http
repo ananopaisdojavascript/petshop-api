@@ -1,2 +1,2 @@
-GET http://localhost:3000/servico?proprietarioId=2
+GET http://localhost:3000/proprietario
 
